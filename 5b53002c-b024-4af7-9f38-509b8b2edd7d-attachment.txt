@@ -1,0 +1,2 @@
+Confirm Message: I am a JS Confirm
+Confirm Type: confirm

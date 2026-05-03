@@ -1,0 +1,3 @@
+waiting for 3 seconds before clicking the button...
+Confirm Message: I am a JS Confirm
+Confirm Type: confirm
